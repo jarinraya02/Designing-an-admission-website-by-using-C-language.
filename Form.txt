@@ -1,0 +1,16 @@
+Name         :
+Fathers Name :
+Mothers Name :
+Gender       :
+Mobile       :
+Email        :
+Exam Update
+We don't take exam for this pandemic situation. 
+Your result will publish based on your HSC mark.(Fill up your HSC mark very carefully)
+Bangla   :
+English  :
+ICT      :
+Math     :
+Physics  :
+Chemistry:
+Biology  :

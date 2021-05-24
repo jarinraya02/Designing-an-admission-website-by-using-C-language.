@@ -1,0 +1,18 @@
+ID		Name			Father's name			Mother's name			Gender		Email					Mobile			Bangla	English	ICT	Math	Physics	Chemistry	Biology	CGPA
+210097		jsf			jkfs				sfjkdklad			jdksf		klsdjhfsdklafj				7847595348		72	79	98	89	94	93		72	3.82
+210098		jhrfklsdf		fjklgfs				fjkg;sildjf			male		l;ksdfhgjdfs				85479043		73	73	58	73	73	73		73	3.39
+210099		kfdljlhg		fdsjkfsd			sdjkfjjj			sdjkf		jkdfghmk				789345398		79	82	58	73	67	62		78	3.43
+210088		jarin raya		abdul kuddus			pervin begum			female		fydytdyt				1552369094		90	99	78	90	94	69		64	3.71
+210089		jarin tasnim		abdul quddus			pervin begum			female		raya@gmail.com				1778096543		62	93	98	99	77	67		94	3.71
+210090		fcgdr		ftrugi			ghfyfch			gfty		gvjtfyt				243465		0	0	7340032	0	3165960	0		0	0.00
+210091		hvhfhytfyt		vfyhgy			vhvhjh			hbjmhg		 bvcvhg				6789997643		99	83	98	94	54	89		67	3.68
+210092		gfctg		gcyf			ccu			fy		jvutgf7				4566788999		89	84	98	78	73	67		95	3.79
+210093		AAA		hbuygedu			hgduyfgw			hbfuyfgu		hgduyeg				1234567890		80	84	80	89	84	84		94	4.00
+210094		AAA		gvcfh			hjgcvfsydg			vgcdhsed		vahdgu				1234567890		90	90	80	90	90	90		90	4.00
+210095		tusher		jhgbfu			hfgeur			jhfbguey		hbfuy				1552369094		90	84	80	90	90	90		90	4.00
+210096		tusher		jhbuyd			hbuyjd			jsbdu		gdyddehuha				1782537838		90	90	80	69	68	93		94	3.79
+210100		tusher		jhdkjgcgfiu			hcfbuseyg			jhvdy		vchdgf				1726264684		90	80	87	88	54	63		63	3.50
+210101		JARIN TASNIM		ABDUL QUDDUS			PERVIN BEGUM			FEMALE		JARIN@GMAIL.COM				1686587072		90	90	80	90	90	90		90	4.00
+210101		JARIN TASNIM		ABDUL QUDDUS			PERVIN BEGUM			FEMALE		JARIN@GAMIL.COM				1686587072		90	90	80	90	90	90		90	4.00
+210103		jeba tasnim		jhgdu			vdwdwqkdg			jvxdht		vdhtgqu				187263920		78	72	78	86	86	99		54	3.64
+210103		jhcgvsy		hgbfuy			jhgfusy			mhfguy		mhfy				5415354353		65	75	90	88	89	88		94	3.86

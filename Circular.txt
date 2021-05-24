@@ -1,0 +1,19 @@
+                            University of Asia Pacific
+                              Committed to Excellence
+Undergraduate Admission Criteria for School of Engineering.
+	No. Subject      -  SSC      -   HSC      -   SSC+HSC 
+	1.  CE           -  3.0      -   3.00     -   7.50  
+	2.  CSE          -  2.50     -   2.50     -   6.00
+	3.  EEE          -  2.50     -   2.50     -   6.00
+	4.  Architecture -  2.50     -   2.50     -   6.00
+Your age must be range of 17 to 23.
+Last date of form fill up on 31/05/2021.
+Please choose a program you want to admit.(Enter one digit number 1/2/3/4)
+Ans:
+What is your SSC GPA?
+Ans:
+What is your HSC GPA?
+Ans:
+What is your date of birth?(DD/MM/YYYY)
+Ans:
+ 
